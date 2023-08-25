@@ -1,0 +1,12 @@
+# pixi environments
+/.pixi/
+
+# data
+/data/
+
+# logging
+/.log/
+/wandb/
+
+# python
+__pycache__/
